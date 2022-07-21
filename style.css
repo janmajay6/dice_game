@@ -1,0 +1,31 @@
+.cointainer{
+  text-align: center;
+  width: 70%;
+  margin: auto;
+}
+.dice{
+  text-align: center;
+  display: inline-block;
+}
+footer{
+  text-align: center;
+  color: white;
+  margin: 5%;
+  
+}
+body{
+  background-color: #393E46;
+}
+h1{
+  color: #4ECCA3;
+  font-size: 8rem;
+  text-shadow: 5px 0 #232931;
+  margin: 30px;
+}
+img{
+  width: 80%;
+}
+p{
+  color: #4ECCA3;
+  font-family: 'Merriweather', serif;
+}
